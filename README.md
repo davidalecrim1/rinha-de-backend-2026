@@ -10,7 +10,7 @@
 
 ## Português
 
-A **Rinha de Backend** é uma competição amistosa em que você constrói um backend sob restrições de CPU e memória. Cada edição traz um tema diferente — e o desta vez é **detecção de fraude em transações de cartão usando busca vetorial**.
+A **Rinha de Backend** é uma competição amistosa em que você constrói um backend sob restrições de CPU e memória. Cada edição traz um tema diferente — e o desta vez é **detecção de fraude em transações de cartão usando busca vetorial**. 
 
 **Documentação completa do desafio:** [**docs/br/README.md**](./docs/br/README.md)
 
